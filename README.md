@@ -11,7 +11,6 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
-cplusplus
 <!--
 **12jikan/12jikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
